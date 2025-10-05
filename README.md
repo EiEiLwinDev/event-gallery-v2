@@ -1,6 +1,9 @@
 
 # Vue and Laravel 8 Setup Guide
 
+# Tech
+Vue, Laravel, Mysql, Bootstrap
+
 ## Step 1: Change Database Connection
 
 Update your `.env` file with the following database connection settings:
